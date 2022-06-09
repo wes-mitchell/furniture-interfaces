@@ -1,0 +1,16 @@
+C:\Users\Wes\workspace\csharp\lightingThree\bin\Debug\net5.0\lightingThree.exe
+C:\Users\Wes\workspace\csharp\lightingThree\bin\Debug\net5.0\lightingThree.deps.json
+C:\Users\Wes\workspace\csharp\lightingThree\bin\Debug\net5.0\lightingThree.runtimeconfig.json
+C:\Users\Wes\workspace\csharp\lightingThree\bin\Debug\net5.0\lightingThree.runtimeconfig.dev.json
+C:\Users\Wes\workspace\csharp\lightingThree\bin\Debug\net5.0\lightingThree.dll
+C:\Users\Wes\workspace\csharp\lightingThree\bin\Debug\net5.0\ref\lightingThree.dll
+C:\Users\Wes\workspace\csharp\lightingThree\bin\Debug\net5.0\lightingThree.pdb
+C:\Users\Wes\workspace\csharp\lightingThree\obj\Debug\net5.0\lightingThree.csproj.AssemblyReference.cache
+C:\Users\Wes\workspace\csharp\lightingThree\obj\Debug\net5.0\lightingThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wes\workspace\csharp\lightingThree\obj\Debug\net5.0\lightingThree.AssemblyInfoInputs.cache
+C:\Users\Wes\workspace\csharp\lightingThree\obj\Debug\net5.0\lightingThree.AssemblyInfo.cs
+C:\Users\Wes\workspace\csharp\lightingThree\obj\Debug\net5.0\lightingThree.csproj.CoreCompileInputs.cache
+C:\Users\Wes\workspace\csharp\lightingThree\obj\Debug\net5.0\lightingThree.dll
+C:\Users\Wes\workspace\csharp\lightingThree\obj\Debug\net5.0\ref\lightingThree.dll
+C:\Users\Wes\workspace\csharp\lightingThree\obj\Debug\net5.0\lightingThree.pdb
+C:\Users\Wes\workspace\csharp\lightingThree\obj\Debug\net5.0\lightingThree.genruntimeconfig.cache
